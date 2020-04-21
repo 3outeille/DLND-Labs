@@ -2,9 +2,6 @@
 
 This repository contains all my work for the Deep Learning Nanodegree.
 
-Certification:
-
-- [Deep Learning Nanodegree](https://graduation.udacity.com/nd101)
 
 # Projects Assignments
 
