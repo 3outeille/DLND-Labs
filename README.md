@@ -1,4 +1,4 @@
-<img src="./img/logo.png" hspace="20%" width="60%">
+<img src="./img/logo.png" hspace="20%">
 
 This repository contains all my work for the Deep Learning Nanodegree.
 
