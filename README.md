@@ -2,6 +2,7 @@
 
 This repository contains all my work for the Deep Learning Nanodegree.
 
+If there is any problems regarding jupyter notebook loading on github, copy paste the link to [jupyter notebook nbviewer](https://nbviewer.jupyter.org/).
 
 # Projects Assignments
 
